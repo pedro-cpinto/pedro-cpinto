@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,react,django,spring,arduino)](https://skillicons.dev)
 
 #### Tools & Development Environment
-[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,supabase,vscode,clion,notion)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,supabase,firebase,vscode,clion,notion)](https://skillicons.dev)
 
 ---
 
