@@ -5,8 +5,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/University-ISEC-red?style=flat-square" alt="ISEC" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Santa_Maria_da_Feira,_Portugal-green?style=flat-square" alt="Location" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Open_to-Internship-orange?style=flat-square" alt="Open to internship" />
 </p>
 
@@ -16,27 +14,25 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 
 ---
 
-### Featured Projects
+### Featured Project
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Garden Simulator**](https://github.com/pedro-cpinto/simulador-jardim-cpp) | Console simulation of a virtual garden, built on class hierarchies, polymorphism and smart pointers | C++ · CMake |
-| [**Motor Fault Diagnosis**](https://github.com/pedro-cpinto/diagnostico-falhas-cbr-rn) | Case-based reasoning system built from scratch, compared with feedforward neural networks (99.9% accuracy) | MATLAB |
-| **Medical Management Web App** | Web application for medical management, currently in development | React,TypeScript,Django,Supabase |
+| **Medical Management Web App** | Web application for medical management, currently in development | React · TypeScript · Django · Supabase |
 
 ---
 
-###  Technologies & Languages
+### Technologies & Languages
 
 #### Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,matlab,spring,dotnet,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,react,django,spring,arduino)](https://skillicons.dev)
 
 #### Tools & Development Environment
-[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,clion,latex,notion)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,supabase,vscode,clion,notion)](https://skillicons.dev)
 
 ---
 
-###  Let's Connect!
+### Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-cpinto/" target="_blank">
