@@ -8,10 +8,8 @@
   <img src="https://img.shields.io/badge/Open_to-Internship-orange?style=flat-square" alt="Open to internship" />
 </p>
 
----
-I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend development and APIs**. I use AI tools to speed up design and prototyping, while keeping code review, testing and technical decisions on my side.
 
-- 🎯 Looking for a **curricular internship** in software development
+I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend development and APIs**. I use AI tools to speed up design and prototyping, while keeping code review, testing and technical decisions on my side.
 
 ---
 ### Featured Project
