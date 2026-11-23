@@ -12,15 +12,11 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 
 - 🎯 Looking for a **curricular internship** in software development
 
----
-
 ### Featured Project
 
 | Project | Description | Stack |
 |---|---|---|
 | **Medical Management Web App** | Web application for medical management, currently in development | React · TypeScript · Django · Supabase |
-
----
 
 ### Technologies & Languages
 
