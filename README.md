@@ -19,10 +19,10 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 | **Medical Management Web App** | Clinic web app to schedule and manage appointments across different consultation types, backed by a patient database, currently in development | TypeScript · Django · Supabase |
 
 #### Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,react,django,spring,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,django,arduino)](https://skillicons.dev)
 
 #### Tools & Development Environment
-[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,supabase,firebase,vscode,clion,notion)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,gitlab,supabase,firebase,vscode,clion,notion)](https://skillicons.dev)
 
 ---
 
