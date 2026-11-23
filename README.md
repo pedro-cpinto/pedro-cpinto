@@ -16,7 +16,7 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 
 | Project | Description | Stack |
 |---|---|---|
-| **Medical Management Web App** | Clinic web app to schedule and manage appointments across different consultation types, backed by a patient database, currently in development | React · TypeScript · Django · Supabase |
+| **Medical Management Web App** | Clinic web app to schedule and manage appointments across different consultation types, backed by a patient database, currently in development | TypeScript · Django · Supabase |
 
 #### Programming Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,react,django,spring,arduino)](https://skillicons.dev)
