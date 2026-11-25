@@ -9,7 +9,7 @@
 </p>
 
 
-I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend development and APIs**. I use AI tools to speed up design and prototyping, while keeping code review, testing and technical decisions on my side.
+I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend development and APIs**. I use AI tools to explore ideas and prototype faster, while code review, testing and architectural decisions stay with me.
 
 ---
 ### Featured Project
@@ -17,9 +17,10 @@ I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **s
 | Project | Description | Stack |
 |---|---|---|
 | **Medical Management Web App** | Clinic web app to schedule and manage appointments across different consultation types, backed by a patient database, currently in development | TypeScript · Django · Supabase |
+| **Quiz Arena** | Team project (Scrum): web app with study rooms, timed step-by-step quiz resolution and AI-generated questions, connected to a REST backend | React · JavaScript · REST API |
 
 #### Programming Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,matlab,django,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,kotlin,html,css,django,arduino,matlab)](https://skillicons.dev)
 
 #### Tools & Development Environment
 [![My Tools](https://skillicons.dev/icons?i=github,gitlab,supabase,firebase,vscode,clion,notion)](https://skillicons.dev)
