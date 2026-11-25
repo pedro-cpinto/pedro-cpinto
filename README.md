@@ -9,7 +9,7 @@
 </p>
 
 
-I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend development and APIs**. I use AI tools to explore ideas and prototype faster, while code review, testing and architectural decisions stay with me.
+I'm a Computer Science Engineering student at **ISEC** (Coimbra), focused on **software architecture, backend/distributed systems, web apps, and mobile development**. I use AI tools to explore ideas and prototype faster, while code review, testing and architectural decisions stay with me.
 
 ---
 ### Featured Project
